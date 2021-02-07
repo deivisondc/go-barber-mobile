@@ -11,6 +11,7 @@ export const Container = styled.View`
 
 export const BackButton = styled.TouchableOpacity`
   margin-top: 24px;
+  z-index: 1;
 `;
 
 export const Title = styled.Text`
